@@ -1,3 +1,5 @@
+#A. Beautiful Year
+
 user_input = int(input()) +1
 
 while True:
